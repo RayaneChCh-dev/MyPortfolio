@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+:root {
+  height: 100%;
+  --gradient-start: #1A1A2E; /* White */
+  --gradient-end: #4E3B7F;   /* Teal */
+}
+
+body {
+  background: radial-gradient(ellipse at top, var(--gradient-start), var(--gradient-end));
+  margin: 1rem;
+}
