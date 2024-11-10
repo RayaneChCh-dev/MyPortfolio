@@ -3,14 +3,21 @@
 @tailwind utilities;
 
 html,
-body,
 :root {
-  height: 100%;
+  
   --gradient-start: #1A1A2E; /* White */
   --gradient-end: #4E3B7F;   /* Teal */
 }
 
 body {
   background: radial-gradient(ellipse at top, var(--gradient-start), var(--gradient-end));
-  margin: 1rem;
+  margin: 4rem;
+  height: 100%;
+}
+
+.gradient-icon {
+  background: linear-gradient(to bottom left, #8b5cf6, #f87171); /* violet-500 to red-400 gradient */
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }

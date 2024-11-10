@@ -8,7 +8,7 @@ const font = Figtree({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Portfolio - Web and Mobile Developer",
   description: "A showcase of my projects and skills in web and mobile development, featuring React, Next.js, Kotlin, and Java.",
-  authors: { name: "Your Name" }, // Replace with your actual name
+  authors: { name: "Rayane Achouchi" },
   keywords: [
     "web development",
     "mobile app development",

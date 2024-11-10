@@ -1,5 +1,63 @@
 {
     "name": "Rayane Achouchi",
     "role": "Développeur Web et Mobile",
-    "description": "Bonjour, je m'appelle Rayane Achouchi et je suis étudiant à l'Efrei. Passionné par le développement web et mobile, je me spécialise particulièrement dans le développement front-end. Au cours des deux dernières années, j'ai réalisé de nombreux projets web, mettant en œuvre la bibliothèque React en JavaScript, ainsi que MongoDB pour la gestion des données."
+    "description": "Bonjour, je m'appelle Rayane Achouchi, étudiant à l'Efrei Paris, passionné par le développement web et mobile. Je me spécialise dans le développement front-end, notamment avec la bibliothèque React en JavaScript, et j’utilise MongoDB pour la gestion des données. Au cours des deux dernières années, j’ai eu l’opportunité de réaliser de nombreux projets qui m’ont permis de consolider mes compétences et d’explorer de nouvelles technologies.",
+    "about_me": "Étudiant en deuxième année de Bachelor à l'Efrei Paris, j’ai plongé sérieusement dans le développement web il y a deux ans, et depuis, ma passion pour ce domaine n’a cessé de grandir. Grâce à des projets divers et stimulants, j'ai acquis une maîtrise solide des technologies modernes du web, avec un focus particulier sur le front-end (Next.js, React.js, Vite.js) ainsi que sur la gestion de bases de données (MongoDB, PostgreSQL, phpMyAdmin). Ce parcours m’a permis de développer une vision complète du cycle de vie d'un projet web, de l'interface utilisateur à la structure de données. Collaboratif de nature, j'apprécie le travail en équipe sur des projets variés, où les défis techniques et les échanges enrichissants sont toujours au rendez-vous. J'aime constamment apprendre et explorer de nouvelles méthodologies, outils et pratiques pour évoluer dans ce domaine en perpétuelle innovation.",
+    "experiences": [
+        {
+            "year": "avril 2024 - juin 2024",
+            "role": "Stagiaire développeur web front-end",
+            "company": "Maison du Monde",
+            "description": "Dans le cadre de mon stage de deux mois, j'ai contribuer au développement de l'accessibilité et de l'optimisation des performances de l'application web Maison du Monde.",
+            "technologies": [
+                "Vue.js",
+                "JavaScript"
+            ]
+        },
+        {
+            "year": "2019",
+            "role": "Stagiaire en mécanique moto",
+            "company": "Doc'Biker",
+            "description": "Dans le cadre de mon stage de 2 semaines, j'ai suivie une formation en mecanique moto, notamment la conception et la fabrication de moteurs et de carrosseries."
+            
+        }
+    ],
+    "projects": [
+        {
+            "title": "Portfolio",
+            "description": "Ce portfolio est mon projet personnel, qui m'a permis de mettre en pratique mes connaissances en Next.js et React.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TypeScript"
+            ],
+            "link": "https://github.com/RayaneChCh-dev/Portfolio"
+        },
+        {
+            "title": "StreamShare",
+            "description": "StreamShare est une application web qui permet aux utilisateurs de regarder des vidéos en streaming en simultané. Elle utilise une API de streamings pour obtenir les données des vidéos et les afficher sur une page web.",
+            "technologies": [
+                "Next.js",
+                "React",
+                "TypeScript",
+                "API REST",
+                "AWS RDS",
+                "PostgreSQL",
+                "AWS S3",
+                "AWS CloudFront"
+            ],
+            "link": "https://github.com/RayaneChCh-dev/Server-Web-Streamshare"
+        },
+        {
+            "title": "WeatherApp-Kotlin",
+            "description": "I created an application that fetches weather data from an API and displays it in a user-friendly way.",
+            "technologies": [
+                "Kotlin",
+                "OpenWeatherMap API",
+                "Jetpack Compose",
+                "Android Studio"
+            ],
+            "link": "https://github.com/RayaneChCh-dev/Weather-App"
+        }
+    ]
 }
