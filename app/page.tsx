@@ -1,9 +1,10 @@
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
 import About from "@/components/About";
-import Technologie from "@/components/Technologie";
+import Technologies from "@/components/Technologie";
 import Experience from "@/components/Experience";
 import Project from "@/components/Project";
+import Contact from "@/components/Contact";
 
 
 export default function Home() {
@@ -12,9 +13,10 @@ export default function Home() {
       <Navbar />
       <Hero />
       <About />
-      <Technologie />
+      <Technologies />
       <Experience />
       <Project />
+      <Contact />
     </>
   );
 }

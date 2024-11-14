@@ -15,6 +15,12 @@
             ]
         },
         {
+            "year": "Janvier 2022 - Juillet 2022",
+            "role": "Employé de rayon en CDD",
+            "company": "Monoprix",
+            "description": "Dans le cadre de mon contrat à durée déterminée de six mois chez Monoprix, j'ai participé activement aux opérations du rayon, en contribuant à la gestion des stocks ainsi qu'à la vente des produits."
+        },
+        {
             "year": "Janvier 2019",
             "role": "Stagiaire en mécanique moto",
             "company": "Doc'Biker",
@@ -62,5 +68,10 @@
             ],
             "link": "https://github.com/RayaneChCh-dev/WeatherApp-Kotlin"
         }
-    ]
+    ],
+    "contact": {
+        "email": "rayaneachouchi25@outlook.fr",
+        "address": "35 Ancien Chemin de l'Empereur, Vaucresson, 92420",
+        "phone": "+33 6 08 30 37 50"
+    }
 }
