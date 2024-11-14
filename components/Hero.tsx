@@ -22,7 +22,7 @@ const Hero = () => {
         <div className="border-b border-[#1A1A2E] pb-4 lg:mb-35">
             <div className="flex flex-wrap justify-center items-center">
                 <div className="w-full lg:w-1/2">
-                    <div className="flex flex-col items-center lg:items-start">
+                    <div className="flex flex-col items-center lg:items-start mt-2">
                         <h1 className="pb-16 text-6xl font-thin tracking-tight lg:mt-16 lg:text-6xl text-white">
                             {data.name}
                         </h1>

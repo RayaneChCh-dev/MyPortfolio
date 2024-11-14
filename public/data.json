@@ -5,7 +5,7 @@
     "about_me": "Étudiant en deuxième année de Bachelor à l'Efrei Paris, j’ai plongé sérieusement dans le développement web il y a deux ans, et depuis, ma passion pour ce domaine n’a cessé de grandir. Grâce à des projets divers et stimulants, j'ai acquis une maîtrise solide des technologies modernes du web, avec un focus particulier sur le front-end (Next.js, React.js, Vite.js) ainsi que sur la gestion de bases de données (MongoDB, PostgreSQL, phpMyAdmin). Ce parcours m’a permis de développer une vision complète du cycle de vie d'un projet web, de l'interface utilisateur à la structure de données. Collaboratif de nature, j'apprécie le travail en équipe sur des projets variés, où les défis techniques et les échanges enrichissants sont toujours au rendez-vous. J'aime constamment apprendre et explorer de nouvelles méthodologies, outils et pratiques pour évoluer dans ce domaine en perpétuelle innovation.",
     "experiences": [
         {
-            "year": "avril 2024 - juin 2024",
+            "year": "Avril 2024 - Juin 2024",
             "role": "Stagiaire développeur web front-end",
             "company": "Maison du Monde",
             "description": "Dans le cadre de mon stage de deux mois, j'ai contribuer au développement de l'accessibilité et de l'optimisation des performances de l'application web Maison du Monde.",
@@ -15,7 +15,7 @@
             ]
         },
         {
-            "year": "2019",
+            "year": "Janvier 2019",
             "role": "Stagiaire en mécanique moto",
             "company": "Doc'Biker",
             "description": "Dans le cadre de mon stage de 2 semaines, j'ai suivie une formation en mecanique moto, notamment la conception et la fabrication de moteurs et de carrosseries."
@@ -25,6 +25,7 @@
     "projects": [
         {
             "title": "Portfolio",
+            "image": "/portfolio.png",
             "description": "Ce portfolio est mon projet personnel, qui m'a permis de mettre en pratique mes connaissances en Next.js et React.",
             "technologies": [
                 "Next.js",
@@ -35,7 +36,8 @@
         },
         {
             "title": "StreamShare",
-            "description": "StreamShare est une application web qui permet aux utilisateurs de regarder des vidéos en streaming en simultané. Elle utilise une API de streamings pour obtenir les données des vidéos et les afficher sur une page web.",
+            "image": "/streamshare.png",
+            "description": "StreamShare est une application web permettant aux utilisateurs de visionner des vidéos en streaming de manière synchronisée. Pour assurer une expérience fluide et performante, nous avons mis en place un backend basé sur Amazon S3 pour le stockage des contenus et Amazon CloudFront pour la distribution rapide et sécurisée des vidéos en streaming. L'application utilise également une API de streaming pour récupérer les données des vidéos et les afficher sur une interface web optimisée.",
             "technologies": [
                 "Next.js",
                 "React",
@@ -50,14 +52,15 @@
         },
         {
             "title": "WeatherApp-Kotlin",
-            "description": "I created an application that fetches weather data from an API and displays it in a user-friendly way.",
+            "image": "/weatherapp.png",
+            "description": "J'ai créé ma première application Android qui récupère les données météo depuis une API et les affiche de manière conviviale. Ce projet m'a permis de me familiariser avec l'intégration d'API et de mieux comprendre le développement mobile. J'ai appris à gérer les requêtes réseau, à extraire les données reçues et à les présenter dans une interface utilisateur claire et intuitive. C'était une expérience enrichissante qui m'a donné des bases solides pour mes futurs projets d'applications Android.",
             "technologies": [
                 "Kotlin",
                 "OpenWeatherMap API",
                 "Jetpack Compose",
                 "Android Studio"
             ],
-            "link": "https://github.com/RayaneChCh-dev/Weather-App"
+            "link": "https://github.com/RayaneChCh-dev/WeatherApp-Kotlin"
         }
     ]
 }

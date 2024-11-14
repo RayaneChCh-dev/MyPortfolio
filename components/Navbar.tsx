@@ -10,8 +10,7 @@ const Navbar = () => {
             <ul className="list-none flex flex-row items-center gap-2">
                 <li>
                     <a 
-                        href="https://github.com/Enayarefrei" target="_blank" rel="noopener noreferrer">
-                        
+                        href="https://github.com/RayaneChCh-dev" target="_blank" rel="noopener noreferrer">
                         <FaGithub  className="w-8 h-8 text-white" />    
                     </a>
                 </li>    
